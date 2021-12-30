@@ -1,0 +1,15 @@
+.container {
+  max-width: 400px;
+}
+
+.todos-container li {
+  background: #013220;
+}
+
+.delete {
+  cursor: pointer;
+}
+
+.hidden {
+  display: none
+}
